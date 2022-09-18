@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+ 
+<workbook>
+ 
+<preferences>
+ 
+  <color-palette name="Fidelity International Colors" type="regular" >
+     <color>#006193</color>         Fidelity Blue
+     <color>#B72F2A</color>        Fidelity Red
+     <color>#ffffff</color>              Fidelity White
+   Neutrals
+     <color>#415464</color>         Fidelity Grey Dark
+                <color>#3e4f5f</color> Fidelity Grey +.30
+                <color>#596574</color>               Fidelity Grey  .85
+                <color>#777d8b</color>              Fidelity Grey  .65
+                <color>#9094a0</color>               Fidelity Grey  .50
+     <color>#9F968D</color>        Fidelity Beige Neutral
+                <color>#79746d</color>              Fidelity Beige +.30
+                <color>#aea69d</color>              Fidelity Beige  .85
+                <color>#bfb8b0</color>               Fidelity Beige  .65
+                <color>#ccc6c0</color> Fidelity Beige  .50
+   Accents
+     <color>#662F6C</color>         Fidelity Mauve
+                <color>#56245c</color>               Fidelity Mauve +.30
+                <color>#76487b</color>              Fidelity Mauve  .85
+                <color>#8e6991</color>              Fidelity Mauve  .65
+                <color>#a285a4</color>               Fidelity Mauve  .50
+     <color>#408740</color>         Fidelity Green
+                <color>#2c7032</color>               Fidelity Green +.30
+                <color>#5e9452</color>              Fidelity Green  .85
+                <color>#80a573</color>               Fidelity Green  .65
+                <color>#9bb68d</color>              Fidelity Green  .50
+     <color>#5FAFAF</color>        Fidelity Teal
+                <color>#49898b</color>              Fidelity Teal +.30
+                <color>#77b7ba</color>              Fidelity Teal  .85
+                <color>#95c6c9</color>               Fidelity Teal  .65
+                <color>#add1d3</color>              Fidelity Teal  .50
+     <color>#7EBCE1</color>        Fidelity Light Blue
+                <color>#4988ad</color>              Fidelity Light Blue +.30
+                <color>#7cbce8</color>               Fidelity Light Blue  .85
+                <color>#9acaed</color>               Fidelity Light Blue  .65
+                <color>#b0d5f1</color>               Fidelity Light Blue  .50
+     <color>#927865</color>         Fidelity Brown
+                <color>#8a6c5a</color>               Fidelity Brown +.30
+                <color>#a68875</color>               Fidelity Brown  .85
+                <color>#b89f8e</color>               Fidelity Brown  .65
+                <color>#c5b1a4</color>               Fidelity Brown  .50
+     <color>#D15F27</color>        Fidelity Orange
+                <color>#a14819</color>               Fidelity Orange +.30
+                <color>#d8753d</color>              Fidelity Orange  .85
+                <color>#e29163</color>              Fidelity Orange  .65
+                <color>#e7a77f</color> Fidelity Orange  .50
+     <color>#E8A123</color>        Fidelity Yellow Orange
+                <color>#ad7914</color>              Fidelity Yellow Orange +.30
+                <color>#edae43</color>              Fidelity Yellow Orange  .85
+                <color>#f2bf6f</color> Fidelity Yellow Orange  .65
+                <color>#f4cc8c</color> Fidelity Yellow Orange  .50
+   Black
+     <color>#000000</color>         Fidelity Black
+                <color>#404041</color>               Fidelity Black .9
+                <color>#58585a</color>               Fidelity Black .8
+                <color>#6d6e71</color>              Fidelity Black .7
+                <color>#818285</color>               Fidelity Black .6
+                <color>#939598</color>               Fidelity Black .5
+                <color>#a7a9ac</color>               Fidelity Black .4
+                <color>#bcbdc0</color>              Fidelity Black .3
+  </color-palette>
+  
+  <color-palette name="Fidelity Blue" type="ordered-diverging" >
+     <color>#99CBE6</color>        Fidelity Blue Light
+     <color>#006193</color>         Fidelity Blue
+  </color-palette>
+   
+  <color-palette name="Fidelity Red" type="ordered-diverging" >
+     <color>#F8ADA7</color>       Fidelity Red Light
+     <color>B72F2A</color>           Fidelity Red
+  </color-palette>
+ 
+  <color-palette name="Fidelity Red-Blue" type="ordered-diverging" >
+     <color>#006193</color>         Fidelity Blue
+                <color>#ffffff</color>   White
+     <color>#B72F2A</color>        Fidelity Red
+  </color-palette>
+ 
+  <color-palette name="Additional Stoplight" type="regular" >
+     <color>#b72f2a</color> Red
+                <color>#daaeaa</color> Red Light
+                <color>#ff8383</color> Pink
+                <color>#b88281</color> Red Gray
+     <color>#d18d1e</color> Orange
+                <color>#e7d19e</color> Orange Light
+                <color>#cc8a06</color. Orange Gray
+     <color>#006193</color> Blue
+                <color>#a7bddd</color> Blue Light
+                <color>#6f7e93</color> Blue Gray
+     <color>#662f6c</color> Purple
+                <color>#c1abc2</color> Purple Light
+                <color>#a794a8</color> Purple Gray
+     <color>#565d64</color> Gray Dark
+                <color>#e6e6e6</color> Gray Light
+                <color>#9c9c9c</color> Gray Medium
+  </color-palette>
+  
+</preferences>
+ 
+</workbook>
